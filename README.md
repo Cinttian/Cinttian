@@ -1,4 +1,4 @@
 cintianataidesdesouza
 
-🌱 Atualmente estou aprendendo Banco de Dados, HTML, CSS, Bootstrap, Visual Studio Code
+🌱 Atualmente estudo Programação Web no SENAC Goiás, estudei Banco de Dados, HTML, CSS, Bootstrap, Visual Studio Code
 
