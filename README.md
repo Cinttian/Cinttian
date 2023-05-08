@@ -1,4 +1,5 @@
-cintianataidesdesouza
+Olá, eu sou Cíntian Ataídes de Souza
+ 
 
-🌱 Atualmente estudo Programação Web no SENAC Goiás, estudei Banco de Dados, HTML, CSS, Bootstrap, Visual Studio Code
+🌱 Estudo Programação Web no SENAC Goiás. Atualmente desenvolvo sites e landing pages utilizando HTML, CSS, Javascript, Bootstrap e Visual Studio Code
 📧Contato: cinttian@gmail.com
